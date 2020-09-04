@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "lodash.range": "^3.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-motion": "^0.5.2",
